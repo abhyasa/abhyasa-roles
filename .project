@@ -3,6 +3,8 @@
 	<name>roles</name>
 	<comment></comment>
 	<projects>
+		<project>abhyasa-hiera-environments</project>
+		<project>abhyasa-profiles</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

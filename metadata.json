@@ -1,6 +1,7 @@
 {
-  "author": "",
-  "dependencies": [],
+  "author": "Vikash Sharma",
+  "dependencies": [
+    {"name":"abhyasa/profiles","version_requirement":"0.1.0"}],
   "license": "",
   "name": "abhyasa-roles",
   "operatingsystem_support": [],
